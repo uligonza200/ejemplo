@@ -1,2 +1,2 @@
 # Este es un ejemplo
-este es un archivo de proeba
+este es un archivo de prueba
